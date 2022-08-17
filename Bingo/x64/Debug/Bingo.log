@@ -1,0 +1,20 @@
+﻿  Bingo.cpp
+C:\Users\ferha\source\repos\Bingo\Bingo.cpp(31,15): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\ferha\source\repos\Bingo\Bingo.cpp(70,36): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\ferha\source\repos\Bingo\Bingo.cpp(174,19): error C2131: ifade sabit olarak değerlendirilmedi
+C:\Users\ferha\source\repos\Bingo\Bingo.cpp(174,19): message : bir değişkenin kendi ömrünün dışında okunması bu hataya neden oldu
+C:\Users\ferha\source\repos\Bingo\Bingo.cpp(174,19): message : 'userCount' kullanımına bakın
+C:\Users\ferha\source\repos\Bingo\Bingo.cpp(175,21): error C2131: ifade sabit olarak değerlendirilmedi
+C:\Users\ferha\source\repos\Bingo\Bingo.cpp(175,21): message : bir değişkenin kendi ömrünün dışında okunması bu hataya neden oldu
+C:\Users\ferha\source\repos\Bingo\Bingo.cpp(175,21): message : 'userCount' kullanımına bakın
+C:\Users\ferha\source\repos\Bingo\Bingo.cpp(179,15): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\ferha\source\repos\Bingo\Bingo.cpp(191,24): error C3863: 'int [userCount]' dizi türü atanabilir değil
+C:\Users\ferha\source\repos\Bingo\Bingo.cpp(194,29): error C3863: 'int [userCount][15]' dizi türü atanabilir değil
+C:\Users\ferha\source\repos\Bingo\Bingo.cpp(206,19): error C2131: ifade sabit olarak değerlendirilmedi
+C:\Users\ferha\source\repos\Bingo\Bingo.cpp(206,19): message : bir değişkenin kendi ömrünün dışında okunması bu hataya neden oldu
+C:\Users\ferha\source\repos\Bingo\Bingo.cpp(206,19): message : 'userCount' kullanımına bakın
+C:\Users\ferha\source\repos\Bingo\Bingo.cpp(209,22): error C3863: 'int [userCount]' dizi türü atanabilir değil
+C:\Users\ferha\source\repos\Bingo\Bingo.cpp(242,19): error C2131: ifade sabit olarak değerlendirilmedi
+C:\Users\ferha\source\repos\Bingo\Bingo.cpp(242,19): message : bir değişkenin kendi ömrünün dışında okunması bu hataya neden oldu
+C:\Users\ferha\source\repos\Bingo\Bingo.cpp(242,19): message : 'userCount' kullanımına bakın
+C:\Users\ferha\source\repos\Bingo\Bingo.cpp(245,22): error C3863: 'int [userCount]' dizi türü atanabilir değil
